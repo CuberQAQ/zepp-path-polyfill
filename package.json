@@ -1,6 +1,6 @@
 {
   "name": "@cuberqaq/path-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfill of node:path for ZeppOS and browser.",
   "main": "index.js",
   "scripts": {

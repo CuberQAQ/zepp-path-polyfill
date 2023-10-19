@@ -1,3 +1,8 @@
+/**
+ * The file is modified by CuberQAQ from node:path for ZeppOS and browser.
+ */
+
+
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
